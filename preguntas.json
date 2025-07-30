@@ -1,0 +1,86 @@
+{
+  "level_1": [
+    {
+      "question": "¿Cuál es el lenguaje de programación de Python?",
+      "options": [
+        "Java",
+        "Python",
+        "C++",
+        "JavaScript"
+      ],
+      "answer": "Python"
+    },
+    {
+      "question": "¿Quién desarrolló Python?",
+      "options": [
+        "Dennis Ritchie",
+        "Guido van Rossum",
+        "Bjarne Stroustrup",
+        "James Gosling"
+      ],
+      "answer": "Guido van Rossum"
+    },
+    {
+      "question": "¿Qué es una pila en estructura de datos?",
+      "options": [
+        "Lista ordenada LIFO",
+        "Estructura FIFO",
+        "Json",
+        "CSV"
+      ],
+      "answer": "Lista ordenada LIFO"
+    },
+    {
+      "question": "¿Qué estructura de datos usa índices numéricos?",
+      "options": [
+        "Lista",
+        "Diccionario",
+        "Conjunto",
+        "Tupla"
+      ],
+      "answer": "Lista"
+    }
+  ],
+  "level_2": [
+    {
+      "question": "¿Qué significa PEP en Python?",
+      "options": [
+        "Python Easy Program",
+        "Python Enhancement Proposal",
+        "Program Execution Process",
+        "Programming Environment Protocol"
+      ],
+      "answer": "Python Enhancement Proposal"
+    },
+    {
+      "question": "¿Qué hace la función 'lambda' en Python?",
+      "options": [
+        "Define funciones anónimas",
+        "Declara variables",
+        "Ejecuta bucles",
+        "Define clases"
+      ],
+      "answer": "Define funciones anónimas"
+    },
+    {
+      "question": "¿Qué biblioteca se usa para manipular DataFrames en Python?",
+      "options": [
+        "Numpy",
+        "Matplotlib",
+        "Pandas",
+        "Seaborn"
+      ],
+      "answer": "Pandas"
+    },
+    {
+      "question": "¿Cómo se obtiene la longitud de una lista en Python?",
+      "options": [
+        "size(lista)",
+        "length(lista)",
+        "len(lista)",
+        "count(lista)"
+      ],
+      "answer": "len(lista)"
+    }
+  ]
+}

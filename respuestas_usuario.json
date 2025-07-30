@@ -1,0 +1,50 @@
+[
+    {
+        "pregunta": "¿Cuál es el lenguaje de programación de Python?",
+        "opciones": [
+            "Java",
+            "Python",
+            "C++",
+            "JavaScript"
+        ],
+        "respuesta_correcta": "Python",
+        "respuesta_usuario": "JavaScript",
+        "acertó": false
+    },
+    {
+        "pregunta": "¿Quién desarrolló Python?",
+        "opciones": [
+            "Dennis Ritchie",
+            "Guido van Rossum",
+            "Bjarne Stroustrup",
+            "James Gosling"
+        ],
+        "respuesta_correcta": "Guido van Rossum",
+        "respuesta_usuario": "Bjarne Stroustrup",
+        "acertó": false
+    },
+    {
+        "pregunta": "¿Qué es una pila en estructura de datos?",
+        "opciones": [
+            "Lista ordenada LIFO",
+            "Estructura FIFO",
+            "Json",
+            "CSV"
+        ],
+        "respuesta_correcta": "Lista ordenada LIFO",
+        "respuesta_usuario": "Lista ordenada LIFO",
+        "acertó": true
+    },
+    {
+        "pregunta": "¿Qué estructura de datos usa índices numéricos?",
+        "opciones": [
+            "Lista",
+            "Diccionario",
+            "Conjunto",
+            "Tupla"
+        ],
+        "respuesta_correcta": "Lista",
+        "respuesta_usuario": "Conjunto",
+        "acertó": false
+    }
+]
